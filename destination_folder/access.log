@@ -1,0 +1,8 @@
+192.168.0.2 - - [03/Aug/2025:10:01:23 +0000] &quot;GET /index.html HTTP/1.1&quot; 200 1024
+192.168.0.3 - - [03/Aug/2025:10:01:24 +0000] &quot;POST /login HTTP/1.1&quot; 200 512
+192.168.0.2 - - [03/Aug/2025:10:01:25 +0000] &quot;GET /about HTTP/1.1&quot; 200 2048
+192.168.0.4 - - [03/Aug/2025:10:01:26 +0000] &quot;GET /index.html HTTP/1.1&quot; 200 1024
+192.168.0.2 - - [03/Aug/2025:10:01:27 +0000] &quot;GET /contact HTTP/1.1&quot; 404 256
+192.168.0.3 - - [03/Aug/2025:10:01:28 +0000] &quot;GET /profile HTTP/1.1&quot; 200 512
+192.168.0.2 - - [03/Aug/2025:10:01:29 +0000] &quot;GET /products HTTP/1.1&quot; 200 3072
+192.168.0.2 - - [03/Aug/2025:10:01:30 +0000] &quot;GET /cart HTTP/1.1&quot; 200 4096
