@@ -1,0 +1,2 @@
+###### crontab -e
+*/05 * * * * root /bin/bash /home/vboxuser/devops/git/github/Linux-assignment/disk_usage.sh >> /home/vboxuser/devops/git/github/Linux-assignment/disk_usage_05.log 2>&1
