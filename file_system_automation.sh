@@ -2,7 +2,9 @@
 
 #create a new directory
 
-DIR="shell_script_directory"
+read -p "Enter Foleder Name: " DIRCTORY_NAME
+
+DIR="$DIRCTORY_NAME"
 
 mkdir -p "$DIR"
 touch "$DIR"/shellscript{1..3}.txt
