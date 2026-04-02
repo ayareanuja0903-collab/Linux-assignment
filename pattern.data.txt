@@ -1,0 +1,4 @@
+error occurred
+all good
+critical error found
+normal line

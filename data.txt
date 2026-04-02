@@ -1,0 +1,10 @@
+John 5
+Alice 15
+Bob 8
+David 20
+Irfan 75
+Rohit 55
+Sachin 85
+Dhoni 48
+Yuvraj 52
+
