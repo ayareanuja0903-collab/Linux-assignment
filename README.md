@@ -18,7 +18,9 @@ The scripts demonstrate automation, file handling, text processing, and system m
 ├── data.txt               # Sample data file
 └── README.md
 ```
-
+## Assignment Output PDF 
+1) Linux Assignment1.pdf
+2) Linux Assignment 2.pdf
 ---
 
 ## 🚀 Scripts Overview
